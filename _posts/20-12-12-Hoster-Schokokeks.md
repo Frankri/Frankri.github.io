@@ -1,2 +1,2 @@
 ### Hoster Schokokeks
-[https://schokokeks.org/](Schokokeks.org)
+[https://www.schokokeks.org/](Schokokeks.org)
