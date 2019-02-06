@@ -6,8 +6,7 @@
 name: Frankri
 
 #(20190206) Theme
-#remote_theme: owner/name
-remote_theme: "mmistakes/minimal-mistakes@4.15.1"
+theme: jekyll-theme-minimal
 
 # Short bio or description (displayed in the header)
 description: nothing to say - at the moment
@@ -80,7 +79,6 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  - jekyll-include-cache
 
 # Exclude these files from your production _site
 exclude:
