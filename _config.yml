@@ -7,7 +7,7 @@ name: Frankri
 
 #(20190206) Theme
 #remote_theme: owner/name
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.15.1"
 
 # Short bio or description (displayed in the header)
 description: nothing to say - at the moment
