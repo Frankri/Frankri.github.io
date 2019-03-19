@@ -1,4 +1,2 @@
-
-# Tools
-
-Noch ist die Seite leer.
+- [gitignore.io](https://www.gitignore.io/)
+- [CyberChef](https://gchq.github.io/CyberChef/)
