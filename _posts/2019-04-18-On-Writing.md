@@ -2,3 +2,5 @@
 - **LaTex** [LaTeX Boilerplates](http://mrzool.cc/tex-boilerplates/)
 - [Butterick's Practical Typography](https://practicaltypography.com/) from the Artikel befor *Dokumente schreiben*
 - and [J. Alexander Branham -A Grad Student's Guide to Pandoc](https://jabranham.com/blog/2016/11/using-pandoc-a-grad-student-guide/) two parts
+- [**pandoc** resources](https://github.com/jgm/pandoc/wiki/User-contributed-templates)
+- [wissenschaftliche Texte schreiben – mit Markdown und Pandoc](https://vijual.de/2019/03/11/artikel-mit-markdown-und-pandoc-schreiben/)
