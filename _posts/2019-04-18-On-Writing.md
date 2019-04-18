@@ -1,0 +1,4 @@
+- [Dokumente schreiben, the nerdy way.](https://jlnostr.de/blog/dokumente-schreiben-markdown-latex-pandoc)
+- **LaTex** [LaTeX Boilerplates](http://mrzool.cc/tex-boilerplates/)
+- [Butterick's Practical Typography](https://practicaltypography.com/) from the Artikel befor *Dokumente schreiben*
+- and [J. Alexander Branham -A Grad Student's Guide to Pandoc](https://jabranham.com/blog/2016/11/using-pandoc-a-grad-student-guide/) two parts
