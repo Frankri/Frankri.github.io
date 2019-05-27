@@ -5,6 +5,8 @@
 Are you using them?](https://internet.nl/)
 - [prettifyjs.net](https://www.prettifyjs.net/)
 - [Pingdom Website Speed Test](https://tools.pingdom.com/)
+- [Awesome Asset Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery)
+- [North Data](https://www.northdata.de/)
 
 **Nachschlagen:**
 - [Elektronik Kompendium](https://www.elektronik-kompendium.de/)
