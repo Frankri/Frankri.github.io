@@ -4,6 +4,7 @@
 - [Modern Internet Standards provide for more reliability and further growth of the Internet. 
 Are you using them?](https://internet.nl/)
 - [prettifyjs.net](https://www.prettifyjs.net/)
+- [Pingdom Website Speed Test](https://tools.pingdom.com/)
 
 **Nachschlagen:**
 - [Elektronik Kompendium](https://www.elektronik-kompendium.de/)
