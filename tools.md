@@ -7,6 +7,7 @@ Are you using them?](https://internet.nl/)
 - [Pingdom Website Speed Test](https://tools.pingdom.com/)
 - [Awesome Asset Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery)
 - [North Data](https://www.northdata.de/)
+- [Webseiten vergleichen mit PrivacyScore](https://privacyscore.org/)
 
 **Nachschlagen:**
 - [Elektronik Kompendium](https://www.elektronik-kompendium.de/)
