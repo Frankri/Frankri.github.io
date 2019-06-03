@@ -12,3 +12,9 @@ Are you using them?](https://internet.nl/)
 **Nachschlagen:**
 - [Elektronik Kompendium](https://www.elektronik-kompendium.de/)
 - [Privacy-Handbuch](https://www.privacy-handbuch.de/index.htm)
+
+**E-Mail** Infos, Checks, etc.
+- [E-Mail Header Analyzer](https://www.gaijin.at/de/tools/e-mail-header-analyzer) (gaijin.at)
+- [Email Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx) (MX Toolbox)
+- [E-Mail-Header lesen und verstehen](https://th-h.de/net/usenet/faqs/headerfaq/)
+- [E-Mail Header finden und verstehen](https://www.mailjet.de/blog/news/email-header/)
