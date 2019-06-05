@@ -9,6 +9,7 @@ Are you using them?](https://internet.nl/)
 - [North Data](https://www.northdata.de/)
 - [Webseiten vergleichen mit PrivacyScore](https://privacyscore.org/)
 - [webbkoll](https://webbkoll.dataskydd.net/de)
+- [socialbearing](https://socialbearing.com/) Twitter Analyse
 
 **Nachschlagen:**
 - [Elektronik Kompendium](https://www.elektronik-kompendium.de/)
