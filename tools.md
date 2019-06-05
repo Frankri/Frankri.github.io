@@ -8,6 +8,7 @@ Are you using them?](https://internet.nl/)
 - [Awesome Asset Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery)
 - [North Data](https://www.northdata.de/)
 - [Webseiten vergleichen mit PrivacyScore](https://privacyscore.org/)
+- [webbkoll](https://webbkoll.dataskydd.net/de)
 
 **Nachschlagen:**
 - [Elektronik Kompendium](https://www.elektronik-kompendium.de/)
