@@ -10,6 +10,7 @@ Are you using them?](https://internet.nl/)
 - [Webseiten vergleichen mit PrivacyScore](https://privacyscore.org/)
 - [webbkoll](https://webbkoll.dataskydd.net/de)
 - [socialbearing](https://socialbearing.com/) Twitter Analyse
+- [We send it](https://www.wesendit.com/) Dateien bis 5 GB versenden (automatisch ver- und entschlüsselt)
 
 **Nachschlagen:**
 - [Elektronik Kompendium](https://www.elektronik-kompendium.de/)
