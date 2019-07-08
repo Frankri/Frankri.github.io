@@ -12,6 +12,10 @@ Are you using them?](https://internet.nl/)
 - [socialbearing](https://socialbearing.com/) Twitter Analyse
 - [We send it](https://www.wesendit.com/) Dateien bis 5 GB versenden (automatisch ver- und entschlüsselt)
 
+**weitere Tools:**
+- [Advanced IP Scanner](http://www.advanced-ip-scanner.com/de/)
+- [MobaXterm](https://mobaxterm.mobatek.net/) Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more
+
 **Nachschlagen:**
 - [Elektronik Kompendium](https://www.elektronik-kompendium.de/)
 - [Privacy-Handbuch](https://www.privacy-handbuch.de/index.htm)
