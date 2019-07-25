@@ -16,6 +16,9 @@ Are you using them?](https://internet.nl/)
 - [Advanced IP Scanner](http://www.advanced-ip-scanner.com/de/)
 - [MobaXterm](https://mobaxterm.mobatek.net/) Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more
 
+**Toolsammlungen**
+- [Open Source Intelligence Tools für Journalisten](https://www.julianschmidli.com/osint-tools)
+
 **Nachschlagen:**
 - [Elektronik Kompendium](https://www.elektronik-kompendium.de/)
 - [Privacy-Handbuch](https://www.privacy-handbuch.de/index.htm)
