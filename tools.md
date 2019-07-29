@@ -11,7 +11,10 @@ Are you using them?](https://internet.nl/)
 - [webbkoll](https://webbkoll.dataskydd.net/de)
 - [socialbearing](https://socialbearing.com/) Twitter Analyse
 - [We send it](https://www.wesendit.com/) Dateien bis 5 GB versenden (automatisch ver- und entschlüsselt)
+
+**Twitter**
 - [The one million tweet map](https://onemilliontweetmap.com/)
+- [OmniSci Tweetmap](https://scl2-04-gpu03.mapd.com/)
 
 **weitere Tools:**
 - [Advanced IP Scanner](http://www.advanced-ip-scanner.com/de/)
@@ -19,6 +22,7 @@ Are you using them?](https://internet.nl/)
 
 **Toolsammlungen**
 - [Open Source Intelligence Tools für Journalisten](https://www.julianschmidli.com/osint-tools)
+- [Open Source Security Tools List](https://haxf4rall.com/2019/07/28/open-source-security-tools-list/)
 
 **Nachschlagen:**
 - [Elektronik Kompendium](https://www.elektronik-kompendium.de/)
