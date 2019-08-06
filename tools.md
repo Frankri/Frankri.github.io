@@ -12,6 +12,12 @@ Are you using them?](https://internet.nl/)
 - [socialbearing](https://socialbearing.com/) Twitter Analyse
 - [We send it](https://www.wesendit.com/) Dateien bis 5 GB versenden (automatisch ver- und entschlüsselt)
 
+*Online WHOIS & andere*
+- [many tools](https://manytools.org/)
+- [Network Tools](https://network-tools.com/)
+- [cenral ops](https://centralops.net/co/)
+
+
 **Twitter**
 - [The one million tweet map](https://onemilliontweetmap.com/)
 - [OmniSci Tweetmap](https://scl2-04-gpu03.mapd.com/)
