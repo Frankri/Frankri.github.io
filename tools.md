@@ -29,6 +29,7 @@ Are you using them?](https://internet.nl/)
 **Toolsammlungen**
 - [Open Source Intelligence Tools für Journalisten](https://www.julianschmidli.com/osint-tools)
 - [Open Source Security Tools List](https://haxf4rall.com/2019/07/28/open-source-security-tools-list/)
+- [OSINT Tools - Investigating websites](https://www.aware-online.com/en/osint-tools/website-tools/)
 
 **Nachschlagen:**
 - [Elektronik Kompendium](https://www.elektronik-kompendium.de/)
