@@ -15,7 +15,7 @@ Are you using them?](https://internet.nl/)
 *Online WHOIS & andere*
 - [many tools](https://manytools.org/)
 - [Network Tools](https://network-tools.com/)
-- [cenral ops](https://centralops.net/co/)
+- [central ops](https://centralops.net/co/)
 
 
 **Twitter**
