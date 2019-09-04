@@ -1,0 +1,2 @@
+## I Know Where Your Cat Lives
+[iknowwhereyourcatlives](https://iknowwhereyourcatlives.com/cat/90690e03fb) und wie ich drauf gekommen bin: [Was ein Katzenbild alles verrät](https://www.faz.net/aktuell/wirtschaft/netzwirtschaft/datenschutz-was-ein-katzenbild-alles-verraet-13107400.html) (von 2014!) und [Sicher im Urlaub – so schützt du dich vor Datendieben](https://www.startpage.com/blog-de/praxis-tipp/urlaub-ohne-reue-schutzt-du-deine-daten-auch-unterwegs/).
