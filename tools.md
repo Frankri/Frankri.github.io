@@ -11,6 +11,7 @@ Are you using them?](https://internet.nl/)
 - [webbkoll](https://webbkoll.dataskydd.net/de)
 - [socialbearing](https://socialbearing.com/) Twitter Analyse
 - [We send it](https://www.wesendit.com/) Dateien bis 5 GB versenden (automatisch ver- und entschlüsselt)
+- [Magic-Wormhole: Get Things From One Computer To Another, Safely](https://magic-wormhole.readthedocs.io/en/latest/)
 
 *Online WHOIS & andere*
 - [many tools](https://manytools.org/)
