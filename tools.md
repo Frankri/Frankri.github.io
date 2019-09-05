@@ -33,7 +33,7 @@ Are you using them?](https://internet.nl/)
 - [OSINT Tools - Investigating websites](https://www.aware-online.com/en/osint-tools/website-tools/)
 
 **Nachschlagen:**
-- [Elektronik Kompendium](https://www.elektronik-kompendium.de/)
+- [Elektronik Kompendium](https://www.elektronik-kompendium.de/) IT-Grundlagen
 - [Privacy-Handbuch](https://www.privacy-handbuch.de/index.htm)
 
 **E-Mail** Infos, Checks, etc.
