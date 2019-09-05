@@ -42,3 +42,7 @@ Are you using them?](https://internet.nl/)
 - [E-Mail-Header lesen und verstehen](https://th-h.de/net/usenet/faqs/headerfaq/)
 - [E-Mail Header finden und verstehen](https://www.mailjet.de/blog/news/email-header/)
 - [SPF Record sender policy framework](https://www.spf-record.de/)
+
+**Video/ Tutorials**
+- [Sebastian Philippi/sephi](https://www.youtube.com/channel/UCprxyhLmoU0DA1UhJUw0bDA/playlists)
+- [Andreas Thehos](https://www.youtube.com/user/AThehos) Excel
