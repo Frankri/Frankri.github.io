@@ -44,5 +44,5 @@ Are you using them?](https://internet.nl/)
 - [SPF Record sender policy framework](https://www.spf-record.de/)
 
 **Video/ Tutorials**
-- [Sebastian Philippi/sephi](https://www.youtube.com/channel/UCprxyhLmoU0DA1UhJUw0bDA/playlists)
+- [Sebastian Philippi/sephi](https://www.youtube.com/channel/UCprxyhLmoU0DA1UhJUw0bDA/playlists) IT-Grundlagen
 - [Andreas Thehos](https://www.youtube.com/user/AThehos) Excel
