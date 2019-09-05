@@ -46,3 +46,4 @@ Are you using them?](https://internet.nl/)
 **Video/ Tutorials**
 - [Sebastian Philippi/sephi](https://www.youtube.com/channel/UCprxyhLmoU0DA1UhJUw0bDA/playlists) IT-Grundlagen
 - [Andreas Thehos](https://www.youtube.com/user/AThehos) Excel
+- [Christian Spannagel](https://www.youtube.com/channel/UC_FGVqET9-GHgKZ7G0ejTSA) Math for the Masses
