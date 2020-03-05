@@ -10,3 +10,4 @@
 - [smart citizen](https://smartcitizen.me/)
 - [Airrohr](https://luftdaten.info/) Luftdaten selber messen _wie oben schon mal beschrieben_
 - [How clean is the air you breathe?](https://www.hackair.eu/)
+- [Temperatur messen und senden mit dem Raspberry Pi](https://www.golem.de/news/mitmachprojekt-temperatur-messen-und-senden-mit-dem-raspberry-pi-1604-120188.html)
