@@ -12,6 +12,7 @@ Are you using them?](https://internet.nl/)
 - [socialbearing](https://socialbearing.com/) Twitter Analyse
 - [We send it](https://www.wesendit.com/) Dateien bis 5 GB versenden (automatisch ver- und entschlüsselt)
 - [Magic-Wormhole: Get Things From One Computer To Another, Safely](https://magic-wormhole.readthedocs.io/en/latest/)
+- [DNS Dumpster](https://dnsdumpster.com/)
 
 *Online WHOIS & andere*
 - [many tools](https://manytools.org/)
